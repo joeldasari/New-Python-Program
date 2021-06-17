@@ -1,5 +1,3 @@
-#kits-git-hub
-
 # Python-Online-Classes
 
 Class_1
