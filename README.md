@@ -1,4 +1,4 @@
-#kitsgithub
+#kits-git-hub
 
 # Python-Online-Classes
 
