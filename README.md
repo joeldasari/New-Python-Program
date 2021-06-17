@@ -1,9 +1,4 @@
-# Eat-Sleep-Netflix-Repeat
-
-# Want to Dowload Movies
-(click below link) 👇
-
-https://www.1tamilmv.mx/
+# Eat-Sleep-Python-Repeat
 
 # Python-Online-Classes
 
@@ -18,3 +13,5 @@ https://transcripts.gotomeeting.com/#/s/652882a0dc4eec0af94a9f2146da8498c953315e
 # Class_3
 
 https://transcripts.gotomeeting.com/#/s/ac640c66274e2bee0405958e53e0ae787e8fc4afb11ca279edb36467e3ba7429
+
+
