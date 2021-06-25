@@ -27,3 +27,7 @@
 ### Class_7
 
 [Link](https://transcripts.gotomeeting.com/#/s/1250a41fd4798b0acd597ba847f2d8788cecd9bb41c4dc81bb11a197248906a2)
+
+### Class_8
+
+[Link](https://transcripts.gotomeeting.com/#/s/ee7d1ab2c981cbc68d9f1628bad82e9f9f8e7e93fbd4f62438ec7a0c3dd535c7)
