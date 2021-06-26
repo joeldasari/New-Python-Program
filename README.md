@@ -20,3 +20,4 @@
 
 ### Class_10 [Link](https://transcripts.gotomeeting.com/#/s/14cc068c8ff014af7cffe114ac73e0c339f02bdaec634820367fa9b6ebd7143a)
 
+### Class_12 [Link](https://transcripts.gotomeeting.com/#/s/633518f09f95761842a50abaa7a2a0ebe9767d7dba508eb79aa34d1720937a11)
